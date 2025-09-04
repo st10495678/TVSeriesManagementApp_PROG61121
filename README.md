@@ -8,3 +8,5 @@
 - **Student Name:** Moses Alie  
 - **Student Number:** 10495678  
 - **Assignment:** Practical Assignment 1 (Java Console Application)
+- https://docs.google.com/document/d/18Wtp0cUsqQPx5Dss2vL6nJorvyBLd-kfQlrlbJYu9Ho/edit?usp=sharing
+- 
